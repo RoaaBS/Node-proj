@@ -13,4 +13,4 @@ export const ConnectDB = () => {
     });
 };
 
-export { sequelize }; // <-- Add this line
+export { sequelize };
